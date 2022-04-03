@@ -2,7 +2,7 @@
 
 <head>
 
-<title>Politi-ko: Meet your match</title>
+<title>Politi-ko 2022: Meet your match</title>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:image" content="http://politi-ko.com/politiko-preview.png"/>
@@ -59,7 +59,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 	<div class="navbar navbar-inverse navbar-static-top politiko">
 		<div class="navbar-inner">
 			<div class="container">
-			<a class="brand" href="#"><strong>Politi-<span class="highlight">ko</span></strong> (beta)</a>
+			<a class="brand" href="#"><strong>Politi-<span class="highlight">ko</span></strong> 2022</a>
 			<ul class="nav">
 				<li ng-class="{active: (view == 'quiz')}">
 					<a href="#" ng-click="setView('quiz')">Quiz</a>
@@ -73,10 +73,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					<a target="_blank" href="https://torchapps.github.io/about">About</a>
 				</li>
 				<li>
-					<a target="_blank" href="http://bilangpilipino.com">Source</a>
-				</li>
-				<li>
-					<a target="_blank" tooltip="Give us feedback, or volunteer!" tooltip-placement="bottom" href="mailto:contact@politi-ko.com">Contact</a>
+					<a target="_blank" href="https://docs.google.com/forms/d/1rkcPR8o2f6yq3O60X-RWmqyoAYN3zXuhg0tN59U_QhI/viewform">Contact</a>
 				</li>
 				<li>
 					<form target="_blank" id="donate" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -116,7 +113,13 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 					</ul>
 
 					<div id="disclaimer">
-						<strong>Disclaimer:</strong> This recommended ballot is not a final solution for voting. We strongly recommend that you still do your own research about the listed candidates. It is also possible that the stances posted here will not hold, given how some politicians change their positions (sometimes more often than is socially acceptable).
+						<strong>Disclaimer:</strong>
+						<p>
+							This recommended ballot is not a final solution for voting. We strongly recommend that you still do your own research about the listed candidates. It is also possible that the stances posted here will not hold, given how some politicians change their positions (sometimes more often than is socially acceptable).
+						</p>
+						<p>
+							Also, due to our <a href="https://www.youtube.com/watch?v=s7tWHJfhiyo">outdated system of plurality voting</a>, please take into account the overall winnability of your candidate. Until such a time that we can adopt a more sensible voting method, this is a consideration that we need to keep making.
+						</p>
 					</div>
 					
 				</div>
@@ -189,7 +192,9 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 						<tr ng-repeat="cand in cands">
 							<th>{{cand.name}}</th>
 							<td ng-repeat="issue in issues" ng-class="getStance(cand, issue)">
-								{{getStance(cand, issue)}}
+								<a href="{{getSource(cand, issue)}}">
+									{{getStance(cand, issue)}}
+								</a>
 							</td>
 						</tr>
 					</tbody>

@@ -123,6 +123,10 @@ app.controller('Politiko', function($scope){
 		return cand.stances[issue.name][0];
 	}
 
+	$scope.getSource = function(cand, issue){
+		return cand.stances[issue.name][1];
+	}
+
 	$scope.getIcon = function(weight){
 		var result;
 		switch(weight) {
