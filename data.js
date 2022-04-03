@@ -1,698 +1,978 @@
 var data = {
- "vp": {
-  "ANTONIO TRILLANES IV": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/229482/money/senators-want-charter-change-to-focus-on-economic-provisions"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "https://soundcloud.com/interaksyon/trillanes-on-conditional-cash-transfer-1/s-HrSBi"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://newsinfo.inquirer.net/676179/resistance-to-bbl-grows-in-congress"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "https://soundcloud.com/interaksyon/trillanes-on-conditional-cash-transfer-1/s-HrSBi"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/229482/money/senators-want-charter-change-to-focus-on-economic-provisions"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "noStand", 
-    "http://www.trillanes.com.ph/media/speeches/the-people-s-freedom-of-information-act/"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "https://soundcloud.com/interaksyon/trillanes-on-conditional-cash-transfer-1/s-HrSBi"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "https://soundcloud.com/interaksyon/trillanes-on-conditional-cash-transfer-1/s-HrSBi"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.trillanes.com.ph/media/speeches/the-people-s-freedom-of-information-act/"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.trillanes.com.ph/media/speeches/the-people-s-freedom-of-information-act/"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "http://newsinfo.inquirer.net/676179/resistance-to-bbl-grows-in-congress"
-   ]
-  }, 
-  "LENI ROBREDO": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "https://drive.google.com/file/d/0B5id4DkjPBsDQzBDcEVremFGNHM/edit"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "No link"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://newsinfo.inquirer.net/743656/escudero-robredo-support-arbitration-case-vs-china-maritime-claims"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://www.rappler.com/nation/politics/elections/2016/109661-mar-roxas-leni-robredo-4ps-pantawid-program-continuity"
-   ], 
-   "Push Charter change": [
-    "noStand", 
-    "No link"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/285430/news/nation/leni-robredo-okay-with-more-than-one-family-member-running-for"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    null
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "No link"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.manilatimes.net/leni-pnoy-clash-on-taxes/222664/"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.rappler.com/thought-leaders/69004-leni-robredo-real-deal-president"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    "http://www.abs-cbnnews.com/nation/regions/09/01/15/leni-robredo-still-unconvinced-run-vp"
-   ]
-  }, 
-  "ALAN PETER CAYETANO": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "https://soundcloud.com/interaksyon/cayetano-lgbtrights-20160120/s-yODqj"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "https://www.senate.gov.ph/press_release/2013/0312_cayetanoa1.asp"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://globalnation.inquirer.net/102720/senator-hopes-ph-will-also-get-same-vow"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://www.interaksyon.com/article/67920/despite-criticisms-cct-program-finds-supporter-in-sen--alan-peter-cayetano"
-   ], 
-   "Push Charter change": [
-    "against", 
-    "http://newsinfo.inquirer.net/552319/charter-change-may-be-way-for-lawmakers-to-regain-pork-barrel"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "against", 
-    "http://newsinfo.inquirer.net/300474/theres-nothing-wrong-with-political-dynasties-says-alan-cayetano"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "https://www.youtube.com/watch?v=8cauAimmwPI"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "NA", 
-    "https://www.youtube.com/watch?v=8cauAimmwPI"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://alanpetercayetano.com/news/2015/10/cayetano-lets-push-for-real-change-bring-down-tax-rates-for-working-filipinos-now"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.senate.gov.ph/press_release/2012/1204_cayetanoa1.asp"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "http://www.senate.gov.ph/press_release/2015/0518_cayetanoa1.asp"
-   ]
-  }, 
-  "CHIZ ESCUDERO": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://www.senate.gov.ph/press_release/2015/0626_escudero2.asp"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "http://www.senate.gov.ph/press_release/2009/1110_escudero3.asp"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.chizescudero.com/index.php/media-room/itemlist/category/34-interviews"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "No link"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.chizescudero.com/index.php/media-room/itemlist/category/34-interviews"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "https://www.youtube.com/watch?v=XcLNddl-KSk"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "http://chizescudero.com/index.php/media-room/item/547-mano-mano"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "http://www.interaksyon.com/article/95935/video--sen--chiz-favors-marcos-burial-at-libingan-ng-mga-bayani"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.senate.gov.ph/press_release/2015/0930_escudero1.asp"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.sunstar.com.ph/manila/local-news/2015/09/18/escudero-assures-iron-fist-campaign-vs-corruption-430981"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "http://newsinfo.inquirer.net/706517/chiz-escudero-explains-comment-on-bbl"
-   ]
-  }, 
-  "GRINGO HONASAN": {
-   "Promote Equal Rights for LGBT": [
-    "noStand", 
-    "No link"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "No link"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "No link"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "No link"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.untvweb.com/news/usaping-cha-cha-dapat-na-muling-talakayin-ayon-kay-senator-gringo-honasan/"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "No link"
-   ], 
-   "Legalize Divorce": [
-    "noStand", 
-    "No link"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "No link"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "No link"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.interaksyon.com/article/50614/pogi--senate-approves-version-of-foi"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    "http://www.pia.gov.ph/mobile/index.php?article=1781423749986%20"
-   ]
-  }, 
-  "BONGBONG MARCOS": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://lifestyle.inquirer.net/207936/love-not-gender-defines-marriage-says-senator-marcos"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "http://www.bongbongmarcos.com/news/post/speech-at-the-43rd-commencement-exercises-of-rizal-technological-university-rtu/"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.philstar.com:8080/headlines/2015/07/09/1475020/bongbong-bilateral-talks-china-opened-door-we-shut-it"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "against", 
-    "http://www.philstar.com/headlines/2014/08/06/1354565/marcos-aquinos-cct-failure"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.bongbongmarcos.com/news/post/transcript-of-interview-of-senator-bongbong-marcos-during-the-opening-of-the-3rd-regular-session-of-the-15th-congress/"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "against", 
-    "http://kickerdaily.com/political-dynasties-are-normal-says-bongbong-marcos/"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "http://www.interaksyon.com/article/107605/senators-not-in-favor-of-legalizing-divorce-in-the-philippines"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "http://www.interaksyon.com/article/95935/video--sen--chiz-favors-marcos-burial-at-libingan-ng-mga-bayani"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.bongbongmarcos.com/news/post/sen-bongbong-asks-why-tax-people-heavily-when-services-come-slowly/"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "https://www.senate.gov.ph/press_release/2015/0729_marcos2.asp"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "http://www.journal.com.ph/news/top-stories/draft-bbl-violates-charter-marcos"
-   ]
-  }
- }, 
- "p": {
-  "GRACE POE": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://www.interaksyon.com/business/120722/poe-open-to-economic-chacha"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "http://lifestyle.asiandragonmagazine.com/?p=297"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.philstar.com/headlines/2015/09/16/1500513/full-text-grace-poes-presidential-bid-announcement"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://lifestyle.asiandragonmagazine.com/?p=297"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.interaksyon.com/business/120722/poe-open-to-economic-chacha"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "http://www.tempo.com.ph/2015/10/06/foi-anti-dynasty-laws-first-before-federalism-poe-says/"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "https://www.youtube.com/watch?v=Oi7IINcDK5w"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "No link"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/537177/news/nation/grace-poe-vows-lower-income-tax-faster-internet-passage-of-foi-law"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://newsinfo.inquirer.net/734850/4-presidentiables-on-foi-cha-cha-corruption-tax-reform"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "noStand", 
-    "http://dzmm.abs-cbnnews.com/news/National/Constitutional_version_ng_BBL,_dapat_hintayin_bago_mag-peace_summit_-_Poe.html"
-   ]
-  }, 
-  "RODRIGO DUTERTE": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://www.philstar.com/headlines/2015/07/13/1476508/duterte-declares-support-gay-marriage-lgbt-rights"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "http://www.rappler.com/nation/politics/elections/2016/114276-duterte-contractualization-not-good"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/546274/news/nation/duterte-on-sea-dispute-with-china-i-m-willing-to-fight-but-let-s-talk-first"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://www.journal.com.ph/news/top-stories/no-to-tax-cut-duterte"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.philstar.com/nation/2015/01/26/1416721/duterte-eyes-abolition-congress-if-elected-president-2016"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "against", 
-    "http://www.philstar.com/headlines/2015/06/25/1469837/duterte-backs-political-dynasties"
-   ], 
-   "Legalize Divorce": [
-    "for", 
-    "http://www.mb.com.ph/duterte-vows-to-close-all-govt-agencies-except-judiciary-if-he-becomes-president"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "http://www.mb.com.ph/duterte-bats-for-heros-burial-for-fm-house-arrest-for-gma/"
-   ], 
-   "Lower Personal Income Tax": [
-    "against", 
-    "http://www.manilatimes.net/duterte-rejects-lower-income-tax-rates/231720/"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://archive.sunstar.com.ph/davao/duterte-dismayed-over-non-passage-info-bill"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    "http://www.gmanetwork.com/news/story/524258/news/regions/duterte-supports-bbl-passage-shuns-all-out-war-in-mindanao"
-   ]
-  }, 
-  "MIRIAM SANTIAGO": {
-   "Promote Equal Rights for LGBT": [
-    "NA", 
-    "https://www.senate.gov.ph/press_release/2015/1027_santiago1.asp"
-   ], 
-   "Support Job Contractualization": [
-    "NA", 
-    "https://www.senate.gov.ph/press_release/2015/1027_santiago1.asp"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.philstar.com/headlines/663466/miriam-defends-phl-diplomatic-protest-vs-china-spratlys"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "https://www.senate.gov.ph/press_release/2015/1027_santiago1.asp"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "https://www.senate.gov.ph/press_release/2015/1027_santiago1.asp"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "http://www.interaksyon.com/article/115635/miriam-urges-binay-mar-to-push-sincerity-bills---against-dynasties-premature-campaiging-epal"
-   ], 
-   "Legalize Divorce": [
-    "for", 
-    "http://www.interaksyon.com/article/50813/sen--miriam-favors-divorce-only-on-two-grounds"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "http://newsinfo.inquirer.net/731898/miriam-santiago-admits-bongbong-marcos-team-up-strange"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://www.senate.gov.ph/press_release/2012/1006_santiago2.asp"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "https://www.senate.gov.ph/press_release/2015/1027_santiago1.asp"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "https://www.senate.gov.ph/press_release/2015/0126_santiago2.asp"
-   ]
-  }, 
-  "MAR ROXAS": {
-   "Promote Equal Rights for LGBT": [
-    "against", 
-    "http://www.gmanetwork.com/news/story/553443/news/nation/roxas-not-in-favor-of-divorce-same-sex-marriage"
-   ], 
-   "Support Job Contractualization": [
-    "NA", 
-    "http://blog.marroxas.com/2015/09/18/speech-during-gathering-of-political-leaders/"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.rappler.com/nation/politics/elections/2016/101081-mar-roxas-leader-i-want"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://blog.marroxas.com/2015/09/18/speech-during-gathering-of-political-leaders/"
-   ], 
-   "Push Charter change": [
-    "against", 
-    "http://www.interaksyon.com/article/119951/mar-roxas-on-charter-change-i-dont-think-that-our-constitution-is-our-weakest-link"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "http://politics.com.ph/mar-in-disbelief-over-political-dynasties-wala-na-bang-ibang-hanapbuhay/"
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    "http://www.gmanetwork.com/news/story/553443/news/nation/roxas-not-in-favor-of-divorce-same-sex-marriage"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "http://www.gmanetwork.com/news/story/542349/news/nation/still-no-libingan-ng-mga-bayani-for-late-dictator-marcos-if-roxas-wins"
-   ], 
-   "Lower Personal Income Tax": [
-    "against", 
-    "http://newsinfo.inquirer.net/742543/roxas-nixes-income-tax-cuts-not-now-in-political-heat"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.senate.gov.ph/press_release/2010/0204_roxas2.asp"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    "http://newsinfo.inquirer.net/642488/mar-roxas-says-bbl-is-mindanaos-last-chance-for-peace"
-   ]
-  }, 
-  "JEJOMAR BINAY": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "http://www.rappler.com/nation/politics/elections-2013/9558-binay-ph-read-for-first-gay-senator"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "http://www.rappler.com/nation/politics/elections/2016/106001-binay-promises-uplb-students"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "http://www.bworldonline.com/content.php?section=Nation&title=binay-on-marcos-era-human-rights-debacle----its-over-lets-move-on&id=114749"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "http://www.bworldonline.com/content.php?section=Nation&title=cash-transfer-to-continue-under-binay-presidency&id=114770"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "http://www.dailymail.co.uk/wires/reuters/article-3243237/Philippine-vice-president-aims-widen-foreign-ownership.html"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "against", 
-    "http://www.rappler.com/nation/politics/elections/2016/106000-binay-dynasties-do-not-cause-poverty"
-   ], 
-   "Legalize Divorce": [
-    "NA", 
-    "http://www.rappler.com/nation/politics/elections/2016/106001-binay-promises-uplb-students"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "http://www.gmanetwork.com/news/story/380328/news/nation/vp-binay-stands-by-old-proposal-bury-marcos-in-batac-with-military-honors"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "http://newsinfo.inquirer.net/722235/binay-says-he-supports-lower-income-tax-rate"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "http://www.mb.com.ph/binay-to-go-all-out-for-transparency-bill/"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "http://www.sunstar.com.ph/manila/local-news/2015/08/03/read-vice-president-jejomar-binays-true-state-nation-address-422486"
-   ]
-  }
- }, 
- "s": {
-  "MARK LAPID": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    ""
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    ""
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    ""
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    ""
-   ], 
-   "Push Charter change": [
-    "against", 
-    ""
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    ""
-   ], 
-   "Legalize Divorce": [
-    "against", 
-    ""
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    ""
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    ""
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    ""
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    ""
-   ]
-  }, 
-  "NERI COLMENARES": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-lgbt-rights/s-qO55T"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-lgbt-rights"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-china-spratly-issue"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "against", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-conditional-cash-transfer"
-   ], 
-   "Push Charter change": [
-    "against", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-charter-change"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-anti-political-dynasty-bill"
-   ], 
-   "Legalize Divorce": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-divorce-1"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-marcos-burial-at-the-libingan-ng-mga-bayani"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-anti-political-dynasty-bill"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-foi-1"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "https://soundcloud.com/interaksyon/neri-colmenares-on-bbl"
-   ]
-  }, 
-  "LEILA DE LIMA": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-lgbt-rights"
-   ], 
-   "Support Job Contractualization": [
-    "noStand", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-job-contractualization"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-china-spartly-issue"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-conditional-cash-transfer"
-   ], 
-   "Push Charter change": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-charter-change"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-anti-political-dynasty-bill"
-   ], 
-   "Legalize Divorce": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-divorce"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "against", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-marcos-burial-at-the-libingan-ng-mga-bayani"
-   ], 
-   "Lower Personal Income Tax": [
-    "noStand", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-lower-personal-income-tax"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-foi"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "for", 
-    "https://soundcloud.com/interaksyon/leila-de-lima-on-bbl"
-   ]
-  }, 
-  "LORNA KAPUNAN": {
-   "Promote Equal Rights for LGBT": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-lgbt-rights"
-   ], 
-   "Support Job Contractualization": [
-    "against", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-job-contractualization"
-   ], 
-   "Fight for PH right over Spratlys, West Philippine Sea": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-china-spratly-issue"
-   ], 
-   "Continue Conditional Cash Transfer Program": [
-    "against", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-conditional-cash-transfer"
-   ], 
-   "Push Charter change": [
-    "against", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-charter-change"
-   ], 
-   "Pass Anti-Political Dynasty Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-anti-political-dynasty"
-   ], 
-   "Legalize Divorce": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-divorce"
-   ], 
-   "Bury Ferdinand Marcos' remains at the Libingan ng mga Bayani": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-burying-marcos-at-the-libingan-ng-mga-bayani"
-   ], 
-   "Lower Personal Income Tax": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-lower-personal-income-tax"
-   ], 
-   "Pass Freedom of Information Bill": [
-    "for", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-freedom-of-information"
-   ], 
-   "Pass Proposed Bangsamoro Basic Law": [
-    "against", 
-    "https://soundcloud.com/interaksyon/lorna-kapunan-on-bbl"
-   ]
-  }
- }
+    "p": {
+        "ERNESTO ABELLA": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/822072/abella-to-allow-same-sex-civil-partnership-conditional-abortion/story/"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://businessmirror.com.ph/2022/02/28/cnn-phl-debate-civil-society-groups-to-have-bigger-role-in-an-abella-presidency/"
+            ],
+            "Support Job Contractualization": [
+                "No stance",
+                "x"
+            ],
+            "Death Penalty": [
+                "for",
+                "https://www.sunstar.com.ph/article/126269/palace-revival-of-death-penalty-to-discipline-law-offenders"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://businessmirror.com.ph/2022/02/28/cnn-phl-debate-civil-society-groups-to-have-bigger-role-in-an-abella-presidency/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.facebook.com/watch/?v=628754541553377"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.msn.com/en-ph/news/national/abella-to-push-for-anti-political-dynasty-law-if-elected-president/ar-AATVeYH?li=AA59GF&sa=U&ved=0ahUKEwjQ0tmtucHKAhXGOhoKHblQDisQwW4IHDAD&usg=AFQjCNG-isBSDxXbiFjqwXnkAI6qeF1MQw"
+            ],
+            "Decriminalizing Abortion": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/822072/abella-to-allow-same-sex-civil-partnership-conditional-abortion/story/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://newsinfo.inquirer.net/1555232/4-presidential-bets-open-to-peace-talks-with-communists"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=416952866857127"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "for",
+                "https://www.youtube.com/watch?v=i_VrkJFVeEc"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://www.youtube.com/watch?v=i_VrkJFVeEc"
+            ]
+        },
+        "LEODY DE GUZMAN": {
+            "Same-Sex Marriage": [
+                "for",
+                "https://www.rappler.com/nation/elections/leody-de-guzman-stand-same-sex-marriage-divorce/"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://www.cnnphilippines.com/news/2022/2/14/Ka-Leody-abortion-divorce.html"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.rappler.com/nation/elections/what-presidential-bets-would-do-first-days-office-if-elected-cnn-philippines-debate-2022/"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://twitter.com/ANCALERTS/status/1102222096137154561"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.rappler.com/nation/elections/presidential-aspirants-response-ferdinand-bongbong-marcos-jr-statement-salns-january-2022/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/812147/leody-de-guzman-make-west-philippine-sea-an-economic-zone-for-sea-countries/story/"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.facebook.com/rapplerdotcom/photos/pcb.5398161930204546/5398161316871274"
+            ],
+            "Decriminalizing Abortion": [
+                "For",
+                "https://www.cnnphilippines.com/news/2022/2/14/Ka-Leody-abortion-divorce.html"
+            ],
+            "Abolish NTF-ELCAC": [
+                "for",
+                "https://www.cnnphilippines.com/news/2021/10/18/Ka-Leody-de-Guzman-NTF-ELCAC-anti-terrorism-law.html"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://twitter.com/philippinestar/status/1126432644634333188"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "https://www.rappler.com/nation/elections/leody-de-guzman-stand-same-sex-marriage-divorce/"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://www.cnnphilippines.com/news/2021/10/18/Ka-Leody-de-Guzman-NTF-ELCAC-anti-terrorism-law.html"
+            ],
+            "Advancing Mining": [
+                "against",
+                "https://www.rappler.com/nation/elections/224895-colmenares-de-guzman-want-mining-act-repealed/"
+            ]
+        },
+        "NORBERTO GONZALES": {
+            "Same-Sex Marriage": [
+                "No stance",
+                "x"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.rappler.com/nation/elections/de-guzman-lacson-consistent-pro-divorce-civil-union-cnn-philippines-presidential-debate-2022/"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://mb.com.ph/2022/01/31/gonzales-to-introduce-social-democratic-formula-in-economy-if-he-wins-presidency/"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.facebook.com/watch/?v=329790605733696&extid=CL-UNK-UNK-UNK-AN_GK0T-GK1C&ref=sharing"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.onenews.ph/articles/ex-defense-chief-release-itrs-not-just-salns-to-the-public"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.youtube.com/watch?v=MFabM1pUIJc"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "No stance",
+                "x"
+            ],
+            "Decriminalizing Abortion": [
+                "No stance",
+                "x"
+            ],
+            "Abolish NTF-ELCAC": [
+                "No stance",
+                "https://newsinfo.inquirer.net/1555232/4-presidential-bets-open-to-peace-talks-with-communists"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://www.youtube.com/watch?v=F3fu1e0OHO8"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "No stance",
+                "x"
+            ],
+            "Advancing Mining": [
+                "neutral",
+                "https://www.youtube.com/watch?v=YPGfvvB2VnY"
+            ]
+        },
+        "PANFILO LACSON": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://mb.com.ph/2022/02/27/lacson-same-sex-marriage-no-civil-union-yes/"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://www.manilatimes.net/2022/01/24/news/national/lacson-backs-divorce-same-sex-civil-union/1830372"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.msn.com/en-ph/news/national/lacson-discloses-positions-on-contractualization-mining-ban-foi/ar-AAThu29?li=AA59GF&sa=U&ved=0ahUKEwjfwuitucHKAhVKnBoKHRp5CBYQFgghMAI&usg=AFQjCNG-isBSDxXbiFjqwXnkAI6qeF1MQw"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://newsinfo.inquirer.net/1543682/lacson-on-shifting-stance-on-death-penalty-is-it-wrong-to-change-your-mind-when-awakened-with-truth"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://newsinfo.inquirer.net/1544856/may-tinatago-lacson-says-on-politicians-refusing-to-release-saln#ixzz7N5xqSW3zz"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "http://legacy.senate.gov.ph/press_release/2021/1123_lacson2.asp"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.msn.com/en-ph/news/national/lacson-discloses-positions-on-contractualization-mining-ban-foi/ar-AAThu29?li=AA59GF&sa=U&ved=0ahUKEwjfwuitucHKAhVKnBoKHRp5CBYQFgghMAI&usg=AFQjCNG-isBSDxXbiFjqwXnkAI6qeF1MQw"
+            ],
+            "Decriminalizing Abortion": [
+                "Undecided",
+                "https://m.facebook.com/inquirerdotnet/photos/a.10150441841044453/10161951131509453/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/810945/lacson-ntf-elcac-should-be-streamlined-not-abolished/story/"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://newsinfo.inquirer.net/1464927/lacson-notes-admin-falling-short-of-campaign-vs-drugs-corruption#ixzz79ifz33tz"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "http://legacy.senate.gov.ph/press_release/2022/0202_lacson2.asp"
+            ],
+            "Anti-Terror Law": [
+                "for",
+                "https://newsinfo.inquirer.net/1525820/lacson-anti-terror-law-still-a-win-for-peace-even-if-parts-of-it-declared-unconstitutional"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://newsinfo.inquirer.net/1508797/lacson-backs-responsible-mining-joint-oil-exploration-in-west-ph-sea#ixzz7D94FjQvN"
+            ]
+        },
+        "BONGBONG MARCOS": {
+            "Same-Sex Marriage": [
+                "for",
+                "https://lifestyle.inquirer.net/207936/love-not-gender-defines-marriage-says-senator-marcos/"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.spot.ph/newsfeatures/59111/senators-dont-want-to-support-the-divorce-bill-because-their-wives-might-use-it-against-them"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://newsinfo.inquirer.net/1558980/marcos-vows-to-end-endo-too"
+            ],
+            "Death Penalty": [
+                "for",
+                "https://legacy.senate.gov.ph/press_release/2016/0301_marcos1.asp"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "against",
+                "https://www.rappler.com/nation/elections/ferdinand-bongbong-marcos-jr-says-will-not-publicize-salns/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.manilatimes.net/2022/02/16/news/national/bbm-to-push-sea-code-of-conduct/1833156"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "Against",
+                "https://www.gmanetwork.com/news/topstories/nation/819342/marcos-jr-why-ban-political-dynasties/story/"
+            ],
+            "Decriminalizing Abortion": [
+                "for",
+                "https://www.rappler.com/nation/elections/ferdinand-bongbong-marcos-jr-okay-abortion-severe-cases-rape-incest/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://newsinfo.inquirer.net/1555232/4-presidential-bets-open-to-peace-talks-with-communists"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://www.rappler.com/nation/bongbong-marcos-will-continue-drug-war-shield-from-international-criminal-court/"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "https://www.youtube.com/watch?v=3iBC8z--IzM"
+            ],
+            "Anti-Terror Law": [
+                "Neutral",
+                "https://www.facebook.com/watch/?v=4335948846523191&ref=sharing"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://news.abs-cbn.com/business/01/25/22/marcos-jr-open-to-sustainable-mining"
+            ]
+        },
+        "ISKO MORENO": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://newsinfo.inquirer.net/1545547/isko-moreno-says-he-respects-same-sex-union-lgbtqi-not-only-recognized-they-part-of-my-governance"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://twitter.com/rapplerdotcom/status/1484861283786969089"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.rappler.com/nation/elections/isko-moreno-contractualization-least-of-my-problems-covid-19/"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://mb.com.ph/2022/02/02/mayor-isko-no-to-death-penalty/?utm_source=rss&utm_medium=rss&utm_campaign=mayor-isko-no-to-death-penalty"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/822308/moreno-ok-with-revealing-saln-but-other-candidates-should-do-the-same/story/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://newsinfo.inquirer.net/1550993/isko-moreno-says-china-must-respect-ph-claims-in-wps-vows-to-beef-up-defense-to-protect-fishermen"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://newsinfo.inquirer.net/1550841/isko-bans-relatives-from-public-office"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://newsinfo.inquirer.net/1546833/isko-moreno-opposes-abortion-even-for-rape-victims"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://news.abs-cbn.com/news/12/16/21/isko-moreno-against-defunding-ntf-elcac"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://newsinfo.inquirer.net/1562833/isko-moreno-says-his-war-on-drugs-will-focus-on-source"
+            ],
+            "Legalize Medical Marijuana": [
+                "against",
+                "https://www.msn.com/en-ph/news/national/isko-says-no-to-legalization-of-medical-marijuana-says-system-should-be-fixed-first/ar-AAUy4VE?li=BBr8RiR&ref=hvper.com&utm_source=hvper.com&utm_medium=website"
+            ],
+            "Anti-Terror Law": [
+                "for",
+                "https://www.pna.gov.ph/articles/1106143"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://newsinfo.inquirer.net/1546319/moreno-ok-with-mining-but-it-must-be-responsible"
+            ]
+        },
+        "MANNY PACQUIAO": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.philstar.com/headlines/2022/01/23/2155861/pacquiao-against-same-sex-marriages-says-he-has-many-lgbtq-supporters"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/823300/against-divorce-pacquiao-robredo-explain-how-they-ll-help-those-in-bad-marriages/story/"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.rappler.com/nation/elections/pacquiao-says-no-to-endo-wants-tax-cuts/"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.rappler.com/nation/elections/from-staunch-supporter-death-penalty-manny-pacquiao-says-not-now-january-2022/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.philstar.com/headlines/2022/01/26/2156546/pacquiao-says-hes-willing-release-saln"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://newsinfo.inquirer.net/1444104/just-saying-what-needs-to-be-said"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://newsinfo.inquirer.net/1546047/fwd-pacquiao-says-to-ban-relatives-from-govt-seats-if-political-dynasty-law-is-passed"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://www.rappler.com/nation/elections/manny-pacquiao-reject-abortion-supports-counseling-rape-victims/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "neutral",
+                "https://www.gmanetwork.com/news/topstories/nation/822262/pacquiao-anti-insurgency-drive-must-come-with-infra-development/story/?fbclid=IwAR2faeEpAPm1mlQjC33IecdIoL2rEVwt1T3wOxerl71Qb3654okuXhzf1is"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://newsinfo.inquirer.net/1523118/pacquiao-to-continue-war-on-drugs-but-in-the-right-way"
+            ],
+            "Legalize Medical Marijuana": [
+                "against",
+                "https://www.facebook.com/rapplerdotcom/photos/pcb.5389520667735339/5389517477735658"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://www.rappler.com/nation/elections/pacquiao-open-abolishing-anti-terrorism-law/"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/602520/pacquiao-cites-bible-verses-in-pushing-for-responsible-mining/story/"
+            ]
+        },
+        "LENI ROBREDO": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.rappler.com/nation/elections/robredo-stand-same-sex-unions-abortion/"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/823300/against-divorce-pacquiao-robredo-explain-how-they-ll-help-those-in-bad-marriages/story/"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.philstar.com/headlines/2022/03/02/2164420/robredo-vows-certify-security-tenure-bill-urgent"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.manilatimes.net/2022/01/31/news/robredo-opposed-to-reimposition-of-death-penalty/1831276"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.philstar.com/headlines/2022/02/01/2157687/require-public-officials-disclose-saln-robredo"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.rappler.com/nation/elections/robredo-china-policy-recognize-ruling-west-philippine-sea-first"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.cnnphilippines.com/news/2022/2/4/Leni-Robredo-anti-dynasty-runoff-elections.html"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://newsinfo.inquirer.net/1545730/very-conflicted-robredo-against-abortion-but-open-to-talks-for-its-decriminalization"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://newsinfo.inquirer.net/1512602/robredo-vows-to-abolish-ntf-elcac-create-conducive-environment-for-peace-talks"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://www.cnnphilippines.com/news/2022/1/13/robredo-drug-war.html"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "https://www.facebook.com/rapplerdotcom/photos/pcb.5389520667735339/5389517477735658"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://www.rappler.com/nation/leni-robredo-knowing-rights-best-defense-vs-anti-terror-law-abuses/"
+            ],
+            "Advancing Mining": [
+                "against",
+                "https://www.rappler.com/nation/elections/robredo-to-reverse-duterte-executive-order-lifting-mining-ban/"
+            ]
+        },
+        "FAISAL MANGONDATO": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/822797/mangondato-favors-divorce-opposes-abortion-same-sex-marriage/story/"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/822797/mangondato-favors-divorce-opposes-abortion-same-sex-marriage/story/"
+            ],
+            "Support Job Contractualization": [
+                "No stance",
+                "x"
+            ],
+            "Death Penalty": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/822770/mangondato-wants-death-penalty-back-if-elected-president/story/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.facebook.com/CNNPhilippines/photos/a.1566814060225154/3385942148312327/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "No stance",
+                "x"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://ph.rappler.com/people/faisal-mangondato"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/822797/mangondato-favors-divorce-opposes-abortion-same-sex-marriage/story/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "No stance",
+                "x"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/822770/mangondato-wants-death-penalty-back-if-elected-president/story/"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "No stance",
+                "x"
+            ],
+            "Advancing Mining": [
+                "No stance",
+                "x"
+            ]
+        },
+        "JOSE MONTEMAYOR": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/821931/montemayor-says-same-sex-union-foolishness-disfavors-abortion-divorce-death-penalty/story/"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/821931/montemayor-says-same-sex-union-foolishness-disfavors-abortion-divorce-death-penalty/story/"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.youtube.com/watch?v=Q_AD-6diZYM"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/821931/montemayor-says-same-sex-union-foolishness-disfavors-abortion-divorce-death-penalty/story/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://www.facebook.com/CNNPhilippines/photos/a.1566814060225154/3385942148312327/"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "No stance",
+                "x"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/821931/montemayor-says-same-sex-union-foolishness-disfavors-abortion-divorce-death-penalty/story/"
+            ],
+            "Abolish NTF-ELCAC": [
+                "for",
+                "https://www.msn.com/en-ph/news/national/montemayor-vows-to-halt-build-build-build-abolish-iatf-ntf-elcac/ar-AATRPan?li=BBr8Mkn"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "No stance",
+                "x"
+            ],
+            "Advancing Mining": [
+                "neutral",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
+            ]
+        }
+    },
+    "vp": {
+        "SARA DUTERTE": {
+            "Same-Sex Marriage": [
+                "No stance",
+                "x"
+            ],
+            "Legalize Divorce": [
+                "No stance",
+                "https://www.rappler.com/nation/201171-sara-duterte-clarifies-she-has-no-opinion-on-divorce/"
+            ],
+            "Support Job Contractualization": [
+                "for",
+                "https://www.apheda.org.au/widespread-protests-philippines/"
+            ],
+            "Death Penalty": [
+                "for",
+                "https://tribune.net.ph/index.php/2019/09/02/faeldon-come-clean/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "No stance",
+                "x"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://news.abs-cbn.com/news/04/10/19/sara-duterte-no-need-to-beg-china-in-disputed-waters"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "No stance",
+                "x"
+            ],
+            "Decriminalizing Abortion": [
+                "No stance",
+                "x"
+            ],
+            "Abolish NTF-ELCAC": [
+                "neutral",
+                "https://www.pna.gov.ph/articles/1138042"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://mb.com.ph/2019/02/26/sara-believes-public-supportive-of-war-against-drug/"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "https://mb.com.ph/2019/03/10/mayor-sara-backs-legalization-of-medical-marijuana/"
+            ],
+            "Anti-Terror Law": [
+                "for",
+                "https://www.pna.gov.ph/articles/1106098"
+            ],
+            "Advancing Mining": [
+                "against",
+                "https://newsinfo.inquirer.net/118035/davao-mayor-backs-proposed-ban-on-mining"
+            ]
+        },
+        "LITO ATIENZA": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.cnnphilippines.com/news/2021/10/19/Atienza-same-sex-marriage-absolute-divorce.html?fbclid=IwAR0PK5PqBJ2JqbUt4-IxkD53bJiNXanfU-JZ7z1RBe7S5tQ7bzv1qeAZedM"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://www.cnnphilippines.com/news/2021/10/19/Atienza-same-sex-marriage-absolute-divorce.html?fbclid=IwAR0PK5PqBJ2JqbUt4-IxkD53bJiNXanfU-JZ7z1RBe7S5tQ7bzv1qeAZedM"
+            ],
+            "Support Job Contractualization": [
+                "for",
+                "https://manilastandard.net/news/national/300977/solon-sides-with-duterte-in-quashing-anti-endo-bill.html"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://newsinfo.inquirer.net/1138567/atienza-death-penalty-will-only-strengthen-those-abusive-in-power"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://eboto.ph/candidate/litoatienza/issue-rundown?scrollto=candidate-info-tab"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "Neutral",
+                "https://newsinfo.inquirer.net/1511056/watch-inqside-look-with-vice-presidential-aspirant-lito-atienza"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://newsinfo.inquirer.net/1511056/watch-inqside-look-with-vice-presidential-aspirant-lito-atienza"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://www.youtube.com/watch?v=h-9-uzxDLf0"
+            ],
+            "Abolish NTF-ELCAC": [
+                "neutral",
+                "https://www.youtube.com/watch?v=n6h8myZCTss"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://newsinfo.inquirer.net/1511056/watch-inqside-look-with-vice-presidential-aspirant-lito-atienza?utm_medium=Social&utm_source=Facebook&fbclid=IwAR1Gf_BLVa0AHzxUSeTgDFJoRRn7cyefdgztZkro-cfvDmVruW6-EJ8_eRw#Echobox=1636164261"
+            ],
+            "Legalize Medical Marijuana": [
+                "against",
+                "https://newsinfo.inquirer.net/1073817/atienza-rejects-bill-legalizing-medical-marijuana"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://mb.com.ph/2020/06/08/atienza-salceda-biazon-withdraw-support-for-anti-terror-bill/"
+            ],
+            "Advancing Mining": [
+                "No stance",
+                "x"
+            ]
+        },
+        "WALDEN BELLO": {
+            "Same-Sex Marriage": [
+                "for",
+                "https://newsinfo.inquirer.net/1505647/de-guzman-bello-tandem-wants-abortion-decriminalized-backs-divorce"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://newsinfo.inquirer.net/1505647/de-guzman-bello-tandem-wants-abortion-decriminalized-backs-divorce"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/808127/leody-de-guzman-walden-bello-electoral-platform-to-push-for-ban-on-endo/story/"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://news.abs-cbn.com/nation/02/12/16/petilla-bello-say-no-to-death-penalty"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://twitter.com/R2KRN_PH/status/1501892573044305921"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://opinion.inquirer.net/141090/china-us-must-both-stop-destabilization"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/823214/bello-calls-sara-a-coward-like-bongbong-while-railing-against-dynasties/story/"
+            ],
+            "Decriminalizing Abortion": [
+                "for",
+                "https://newsinfo.inquirer.net/1505647/de-guzman-bello-tandem-wants-abortion-decriminalized-backs-divorce"
+            ],
+            "Abolish NTF-ELCAC": [
+                "for",
+                "https://news.abs-cbn.com/news/12/13/21/vp-aspirant-walden-bello-crafts-proposed-peace-plan"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://newsinfo.inquirer.net/805816/dont-make-war-on-drugs-war-on-human-rights"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://cmfr-phil.org/media-ethics-responsibility/journalism-review/whats-at-stake-bulatlat-reminds-voters-of-candidates-stand-on-anti-terror-law/"
+            ],
+            "Advancing Mining": [
+                "against",
+                "https://politics.com.ph/walden-bello-pushes-for-mine-ban-wants-large-scale-loggers-liable-for-plunder/"
+            ]
+        },
+        "WILLIE ONG": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.facebook.com/watch/?v=1342593999548377"
+            ],
+            "Legalize Divorce": [
+                "No stance",
+                "X"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.philstar.com/headlines/2019/02/18/1894715/senate-bets-firm-stopping-endo"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.gmanetwork.com/news/topstories/nation/820957/ong-says-he-s-against-death-penalty-for-now/story/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://eboto.ph/candidate/willie-ong/issue-rundown?scrollto=candidate-info-tab"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.facebook.com/watch/?v=1342593999548377"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://mb.com.ph/2022/02/26/on-political-dynasties-doc-willie-ong-proposes-gap-in-terms/"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://mobile.twitter.com/rapplerdotcom/status/1488395265161641985"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://www.facebook.com/watch/?v=1342593999548377"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://www.cnnphilippines.com/news/2022/2/27/Doc-Willie-public-health-approach-drug-war.html"
+            ],
+            "Legalize Medical Marijuana": [
+                "for",
+                "https://www.rappler.com/nation/elections/things-to-know-doc-willie-ong/"
+            ],
+            "Anti-Terror Law": [
+                "No stance",
+                "https://www.facebook.com/watch/?v=1342593999548377"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://www.facebook.com/watch/?v=1342593999548377"
+            ]
+        },
+        "KIKO PANGILINAN": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://twitter.com/rapplerdotcom/status/1447409870727118848"
+            ],
+            "Legalize Divorce": [
+                "for",
+                "https://www.youtube.com/watch?v=n37xpLFDBQk"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "http://legacy.senate.gov.ph/press_release/2022/0203_pangilinan1.asp"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://newsinfo.inquirer.net/878496/pangilinan-vows-to-stop-death-penalty-bill-at-senate"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "No stance",
+                "x"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "http://legacy.senate.gov.ph/press_release/2021/0406_pangilinan1.asp"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "http://legacy.senate.gov.ph/press_release/2020/0719_pangilinan1.asp"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://twitter.com/kikopangilinan/status/38078776877391872"
+            ],
+            "Abolish NTF-ELCAC": [
+                "for",
+                "https://staging.ovp.gov.ph/post/press-conference-vice-president-leni-robredo-and-senator-kiko-pangilinan"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://newsinfo.inquirer.net/1314198/tokhang-very-effective-bato-says-as-pangilinan-questions-logic-on-drug-war-success#ixzz7AI3XQK4D"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "http://legacy.senate.gov.ph/press_release/2020/0703_pangilinan1.asp"
+            ],
+            "Advancing Mining": [
+                "No stance",
+                "x"
+            ]
+        },
+        "TITO SOTTO": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://www.cnnphilippines.com/news/2020/10/22/Sotto-Pope-Francis-civil-union-same-sex-couples-.html"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://newsinfo.inquirer.net/1150279/sotto-most-senators-may-back-dissolution-of-marriage-but-not-divorce"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://news.abs-cbn.com/news/09/11/20/sotto-pushes-for-regularization-overtime-pay-other-benefits-for-media-workers"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.rappler.com/nation/elections/lacson-sotto-now-against-death-penalty-want-alcatraz-philippines/"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "for",
+                "https://newsinfo.inquirer.net/1516015/sotto-to-duterte-lead-the-way-show-your-saln"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "for",
+                "https://www.philstar.com/headlines/2022/02/26/2163596/vp-bets-pangilinan-sotto-look-foreign-partners-assert-rights-over-west-philippine-sea"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "No stance",
+                "x"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://newsinfo.inquirer.net/1141119/sotto-show-number-of-abortion-cases-before-probing-ph-for-killings"
+            ],
+            "Abolish NTF-ELCAC": [
+                "against",
+                "https://www.youtube.com/watch?v=xs8XwjaI1KI"
+            ],
+            "War on Drugs": [
+                "for",
+                "https://www.gmanetwork.com/news/topstories/nation/820843/sotto-justifies-position-on-duterte-s-war-vs-illegal-drugs/story/"
+            ],
+            "Legalize Medical Marijuana": [
+                "against",
+                "https://www.spot.ph/newsfeatures/55775/sen-tito-sotto-says-he-will-consider-supporting-the-legalization-of-medical-marijuana-if-theres-proof-it-can-benefit-the-sick"
+            ],
+            "Anti-Terror Law": [
+                "for",
+                "https://www.rappler.com/nation/262654-sotto-response-critics-only-terrorists-supporters-afraid-anti-terror-bill/"
+            ],
+            "Advancing Mining": [
+                "for",
+                "https://manilastandard.net/news/314208779/lacson-sotto-responsible-mining-will-protect-ips.html"
+            ]
+        },
+        "RIZALITO DAVID": {
+            "Same-Sex Marriage": [
+                "against",
+                "https://nerdyseal.com/same-sex-marriage-in-the-philippines/"
+            ],
+            "Legalize Divorce": [
+                "against",
+                "https://votepilipinas.com/candidate/david-rizalito.html"
+            ],
+            "Support Job Contractualization": [
+                "against",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=278342217709908"
+            ],
+            "Death Penalty": [
+                "against",
+                "https://www.facebook.com/tolitsyap.david/posts/1384729371584613"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "No stance",
+                "x"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "For",
+                "https://www.facebook.com/watch/live/?ref=watch_permalink&v=278342217709908"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.philstar.com/headlines/2013/05/04/938148/david-push-rh-law-repeal-land-use-act"
+            ],
+            "Decriminalizing Abortion": [
+                "against",
+                "https://votepilipinas.com/candidate/david-rizalito.html"
+            ],
+            "Abolish NTF-ELCAC": [
+                "No stance",
+                "x"
+            ],
+            "War on Drugs": [
+                "against",
+                "https://www.facebook.com/tolitsyap.david/posts/5199228933467952"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "against",
+                "https://www.facebook.com/tolitsyap.david/posts/3245533598837505"
+            ],
+            "Advancing Mining": [
+                "against",
+                "https://www.pressreader.com/philippines/manila-times/20130317/281509338625089"
+            ]
+        },
+        "CARLOS SERAPIO": {
+            "Same-Sex Marriage": [
+                "No stance",
+                "x"
+            ],
+            "Legalize Divorce": [
+                "No stance",
+                "x"
+            ],
+            "Support Job Contractualization": [
+                "No stance",
+                "x"
+            ],
+            "Death Penalty": [
+                "No stance",
+                "x"
+            ],
+            "Requiring Public Officials to Publicize SALN": [
+                "No stance",
+                "x"
+            ],
+            "Assertion of Ownership on West Philippine Sea": [
+                "No stance",
+                "x"
+            ],
+            "Pass Anti-Political Dynasty Bill": [
+                "for",
+                "https://www.cnnphilippines.com/news/2022/2/27/bello-ong-serapio-political-dynasties.html"
+            ],
+            "Decriminalizing Abortion": [
+                "No stance",
+                "x"
+            ],
+            "Abolish NTF-ELCAC": [
+                "No stance",
+                "x"
+            ],
+            "War on Drugs": [
+                "No stance",
+                "x"
+            ],
+            "Legalize Medical Marijuana": [
+                "No stance",
+                "x"
+            ],
+            "Anti-Terror Law": [
+                "No stance",
+                "x"
+            ],
+            "Advancing Mining": [
+                "No stance",
+                "x"
+            ]
+        }
+    }
 }
