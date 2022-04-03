@@ -1039,7 +1039,7 @@ var issues = [
     },
     {
         "name": "Advancing Mining",
-        "desc": "Mining was the deadliest sector for environmental and land defenders in the world in 2019 according to the watchdog Global Witness.",
+        "desc": "Mining was the deadliest sector for environmental activists and land defenders in the world in 2019 according to the watchdog Global Witness.",
         "link": "https://news.mongabay.com/2021/04/complete-turnaround-philippines-duterte-lifts-ban-on-new-mining-permits/"
     }
 ]
