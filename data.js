@@ -979,67 +979,67 @@ var data = {
 var issues = [
     {
         "name": "Same-Sex Marriage",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Same-sex marriage, also known as gay marriage, is the marriage of two people of the same sex. The Philippines does not recognize nor provide any legal rights for same-sex marriages nor unions in any way.",
+        "link": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Philippines#:~:text=The%20Philippines%20does%20not%20offer,unions%20or%20domestic%20partnership%20benefits."
     },
     {
         "name": "Legalize Divorce",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Divorce is the process of terminating a marriage or marital union. The Philippines remains to be the only country in the world, apart from the Vatican, without a generally applicable divorce law.",
+        "link": "https://pcw.gov.ph/adopting-divorce-in-the-family-code-2/"
     },
     {
         "name": "Support Job Contractualization",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Contractualization is a short-term employment practice that lasts less than six months to avoid regularization.",
+        "link": "https://en.wikipedia.org/wiki/Endo_contractualization"
     },
     {
         "name": "Death Penalty",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Capital punishment, also known as the death penalty, is a state-sanctioned practice of killing a person as a punishment for a crime. President Gloria Macapagal Arroyo abolished the death penalty in 2006. ",
+        "link": "https://www.hrw.org/news/2020/08/05/death-penalty-danger-philippines"
     },
     {
         "name": "Requiring Public Officials to Publicize SALN",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "A Statement of Assets, Liabilities, and Net Worth (SALN) is a document that all government workers in the Philippines must complete and submit attesting their total assets and liabilities that make up their net worth.",
+        "link": "https://mirror.officialgazette.gov.ph/saln/"
     },
     {
         "name": "Assertion of Ownership on West Philippine Sea",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "The West Philippine Sea refers to the portions of the South China Sea which the Philippine government claims to be part of the country's exclusive economic zone (EEZ).",
+        "link": "https://www.cnnphilippines.com/news/2021/12/28/Duterte-West-Philippine-Sea-2021-yearender.html"
     },
     {
         "name": "Pass Anti-Political Dynasty Bill",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "The Anti-Political Dynasty Bill will prohibit members of political dynasties from holding or running for elected local government positions.",
+        "link": "https://en.wikipedia.org/wiki/Political_dynasties_in_the_Philippines#:~:text=Many%20have%20called%20for%20Congress,for%20elected%20local%20government%20positions."
     },
     {
         "name": "Decriminalizing Abortion",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Many Filipino women experience unintended pregnancies and because abortion is highly stigmatized in the country, many who seek abortion undergo unsafe procedures.",
+        "link": "https://pinsan.ph/"
     },
     {
         "name": "Abolish NTF-ELCAC",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "NTF-ELCAC is a task force organized by the government to address the ongoing communist rebellion in the Philippines. The task force is heavily criticized because of red-tagging practices of its officals.",
+        "link": "https://en.wikipedia.org/wiki/National_Task_Force_to_End_Local_Communist_Armed_Conflict"
     },
     {
         "name": "War on Drugs",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "The Philippine drug war is the anti-drug policy and actions of the Philippine government under President Rodrigo Duterte. Several Human Rights Groups condemn the war on drugs because of the thousands of deaths since its launch in 2016.",
+        "link": "https://www.hrw.org/report/2020/05/27/our-happy-family-gone/impact-war-drugs-children-philippines"
     },
     {
         "name": "Legalize Medical Marijuana",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "The cultivation and use of cannabis in the Philippines is illegal under Republic Act 9165 or the Comprehensive Dangerous Drugs Act of 2002. Cannabis offers a lot of medical benefits which includes chronic pain alleviation.",
+        "link": "https://www.congress.gov.ph/press/details.php?pressid=11248#:~:text=The%20bill%20prohibits%20qualified%20patients,for%20treatment%20of%20debilitating%20diseases."
     },
     {
         "name": "Anti-Terror Law",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "The Anti-Terrorism Act of 2020 (Republic Act No. 11479) is a counter-terrorism law intended to prevent terrorism in the Philippines. The Commission on Human Rights said the broad definition of \"terrorism\" paves the road for possible abuse.",
+        "link": "https://en.wikipedia.org/wiki/Anti-Terrorism_Act_of_2020"
     },
     {
         "name": "Advancing Mining",
-        "desc": "This is a short description of the issue.",
-        "link": "https://reference.link/"
+        "desc": "Mining was the deadliest sector for environmental and land defenders in the world in 2019 according to the watchdog Global Witness.",
+        "link": "https://news.mongabay.com/2021/04/complete-turnaround-philippines-duterte-lifts-ban-on-new-mining-permits/"
     }
 ]
