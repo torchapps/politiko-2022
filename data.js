@@ -192,7 +192,7 @@ var data = {
                 "https://www.msn.com/en-ph/news/national/lacson-discloses-positions-on-contractualization-mining-ban-foi/ar-AAThu29?li=AA59GF&sa=U&ved=0ahUKEwjfwuitucHKAhVKnBoKHRp5CBYQFgghMAI&usg=AFQjCNG-isBSDxXbiFjqwXnkAI6qeF1MQw"
             ],
             "Decriminalizing Abortion": [
-                "Undecided",
+                "noStand",
                 "https://m.facebook.com/inquirerdotnet/photos/a.10150441841044453/10161951131509453/"
             ],
             "Abolish NTF-ELCAC": [
