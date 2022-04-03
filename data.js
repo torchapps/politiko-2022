@@ -10,7 +10,7 @@ var data = {
                 "https://businessmirror.com.ph/2022/02/28/cnn-phl-debate-civil-society-groups-to-have-bigger-role-in-an-abella-presidency/"
             ],
             "Support Job Contractualization": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Death Penalty": [
@@ -42,7 +42,7 @@ var data = {
                 "https://www.facebook.com/watch/live/?ref=watch_permalink&v=416952866857127"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
@@ -110,7 +110,7 @@ var data = {
         },
         "NORBERTO GONZALES": {
             "Same-Sex Marriage": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Legalize Divorce": [
@@ -134,15 +134,15 @@ var data = {
                 "https://www.youtube.com/watch?v=MFabM1pUIJc"
             ],
             "Pass Anti-Political Dynasty Bill": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Decriminalizing Abortion": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Abolish NTF-ELCAC": [
-                "No stance",
+                "noStand",
                 "https://newsinfo.inquirer.net/1555232/4-presidential-bets-open-to-peace-talks-with-communists"
             ],
             "War on Drugs": [
@@ -150,15 +150,15 @@ var data = {
                 "https://www.youtube.com/watch?v=F3fu1e0OHO8"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Advancing Mining": [
-                "neutral",
+                "noStand",
                 "https://www.youtube.com/watch?v=YPGfvvB2VnY"
             ]
         },
@@ -262,7 +262,7 @@ var data = {
                 "https://www.youtube.com/watch?v=3iBC8z--IzM"
             ],
             "Anti-Terror Law": [
-                "Neutral",
+                "noStand",
                 "https://www.facebook.com/watch/?v=4335948846523191&ref=sharing"
             ],
             "Advancing Mining": [
@@ -358,7 +358,7 @@ var data = {
                 "https://www.rappler.com/nation/elections/manny-pacquiao-reject-abortion-supports-counseling-rape-victims/"
             ],
             "Abolish NTF-ELCAC": [
-                "neutral",
+                "noStand",
                 "https://www.gmanetwork.com/news/topstories/nation/822262/pacquiao-anti-insurgency-drive-must-come-with-infra-development/story/?fbclid=IwAR2faeEpAPm1mlQjC33IecdIoL2rEVwt1T3wOxerl71Qb3654okuXhzf1is"
             ],
             "War on Drugs": [
@@ -442,7 +442,7 @@ var data = {
                 "https://www.gmanetwork.com/news/topstories/nation/822797/mangondato-favors-divorce-opposes-abortion-same-sex-marriage/story/"
             ],
             "Support Job Contractualization": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Death Penalty": [
@@ -454,7 +454,7 @@ var data = {
                 "https://www.facebook.com/CNNPhilippines/photos/a.1566814060225154/3385942148312327/"
             ],
             "Assertion of Ownership on West Philippine Sea": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Pass Anti-Political Dynasty Bill": [
@@ -466,7 +466,7 @@ var data = {
                 "https://www.gmanetwork.com/news/topstories/nation/822797/mangondato-favors-divorce-opposes-abortion-same-sex-marriage/story/"
             ],
             "Abolish NTF-ELCAC": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "War on Drugs": [
@@ -474,15 +474,15 @@ var data = {
                 "https://www.gmanetwork.com/news/topstories/nation/822770/mangondato-wants-death-penalty-back-if-elected-president/story/"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Advancing Mining": [
-                "No stance",
+                "noStand",
                 "x"
             ]
         },
@@ -512,7 +512,7 @@ var data = {
                 "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
             ],
             "Pass Anti-Political Dynasty Bill": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Decriminalizing Abortion": [
@@ -528,15 +528,15 @@ var data = {
                 "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Advancing Mining": [
-                "neutral",
+                "noStand",
                 "https://www.facebook.com/watch/live/?ref=watch_permalink&v=440881441113276"
             ]
         }
@@ -544,11 +544,11 @@ var data = {
     "vp": {
         "SARA DUTERTE": {
             "Same-Sex Marriage": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Legalize Divorce": [
-                "No stance",
+                "noStand",
                 "https://www.rappler.com/nation/201171-sara-duterte-clarifies-she-has-no-opinion-on-divorce/"
             ],
             "Support Job Contractualization": [
@@ -560,7 +560,7 @@ var data = {
                 "https://tribune.net.ph/index.php/2019/09/02/faeldon-come-clean/"
             ],
             "Requiring Public Officials to Publicize SALN": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Assertion of Ownership on West Philippine Sea": [
@@ -568,15 +568,15 @@ var data = {
                 "https://news.abs-cbn.com/news/04/10/19/sara-duterte-no-need-to-beg-china-in-disputed-waters"
             ],
             "Pass Anti-Political Dynasty Bill": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Decriminalizing Abortion": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Abolish NTF-ELCAC": [
-                "neutral",
+                "noStand",
                 "https://www.pna.gov.ph/articles/1138042"
             ],
             "War on Drugs": [
@@ -618,7 +618,7 @@ var data = {
                 "https://eboto.ph/candidate/litoatienza/issue-rundown?scrollto=candidate-info-tab"
             ],
             "Assertion of Ownership on West Philippine Sea": [
-                "Neutral",
+                "noStand",
                 "https://newsinfo.inquirer.net/1511056/watch-inqside-look-with-vice-presidential-aspirant-lito-atienza"
             ],
             "Pass Anti-Political Dynasty Bill": [
@@ -630,7 +630,7 @@ var data = {
                 "https://www.youtube.com/watch?v=h-9-uzxDLf0"
             ],
             "Abolish NTF-ELCAC": [
-                "neutral",
+                "noStand",
                 "https://www.youtube.com/watch?v=n6h8myZCTss"
             ],
             "War on Drugs": [
@@ -646,7 +646,7 @@ var data = {
                 "https://mb.com.ph/2020/06/08/atienza-salceda-biazon-withdraw-support-for-anti-terror-bill/"
             ],
             "Advancing Mining": [
-                "No stance",
+                "noStand",
                 "x"
             ]
         },
@@ -710,7 +710,7 @@ var data = {
                 "https://www.facebook.com/watch/?v=1342593999548377"
             ],
             "Legalize Divorce": [
-                "No stance",
+                "noStand",
                 "X"
             ],
             "Support Job Contractualization": [
@@ -750,7 +750,7 @@ var data = {
                 "https://www.rappler.com/nation/elections/things-to-know-doc-willie-ong/"
             ],
             "Anti-Terror Law": [
-                "No stance",
+                "noStand",
                 "https://www.facebook.com/watch/?v=1342593999548377"
             ],
             "Advancing Mining": [
@@ -776,7 +776,7 @@ var data = {
                 "https://newsinfo.inquirer.net/878496/pangilinan-vows-to-stop-death-penalty-bill-at-senate"
             ],
             "Requiring Public Officials to Publicize SALN": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Assertion of Ownership on West Philippine Sea": [
@@ -800,7 +800,7 @@ var data = {
                 "https://newsinfo.inquirer.net/1314198/tokhang-very-effective-bato-says-as-pangilinan-questions-logic-on-drug-war-success#ixzz7AI3XQK4D"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
@@ -808,7 +808,7 @@ var data = {
                 "http://legacy.senate.gov.ph/press_release/2020/0703_pangilinan1.asp"
             ],
             "Advancing Mining": [
-                "No stance",
+                "noStand",
                 "x"
             ]
         },
@@ -838,7 +838,7 @@ var data = {
                 "https://www.philstar.com/headlines/2022/02/26/2163596/vp-bets-pangilinan-sotto-look-foreign-partners-assert-rights-over-west-philippine-sea"
             ],
             "Pass Anti-Political Dynasty Bill": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Decriminalizing Abortion": [
@@ -884,7 +884,7 @@ var data = {
                 "https://www.facebook.com/tolitsyap.david/posts/1384729371584613"
             ],
             "Requiring Public Officials to Publicize SALN": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Assertion of Ownership on West Philippine Sea": [
@@ -900,7 +900,7 @@ var data = {
                 "https://votepilipinas.com/candidate/david-rizalito.html"
             ],
             "Abolish NTF-ELCAC": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "War on Drugs": [
@@ -908,7 +908,7 @@ var data = {
                 "https://www.facebook.com/tolitsyap.david/posts/5199228933467952"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
@@ -922,27 +922,27 @@ var data = {
         },
         "CARLOS SERAPIO": {
             "Same-Sex Marriage": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Legalize Divorce": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Support Job Contractualization": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Death Penalty": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Requiring Public Officials to Publicize SALN": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Assertion of Ownership on West Philippine Sea": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Pass Anti-Political Dynasty Bill": [
@@ -950,27 +950,27 @@ var data = {
                 "https://www.cnnphilippines.com/news/2022/2/27/bello-ong-serapio-political-dynasties.html"
             ],
             "Decriminalizing Abortion": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Abolish NTF-ELCAC": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "War on Drugs": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Legalize Medical Marijuana": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Anti-Terror Law": [
-                "No stance",
+                "noStand",
                 "x"
             ],
             "Advancing Mining": [
-                "No stance",
+                "noStand",
                 "x"
             ]
         }
