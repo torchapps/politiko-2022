@@ -976,3 +976,70 @@ var data = {
         }
     }
 }
+var issues = [
+    {
+        "name": "Same-Sex Marriage",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Legalize Divorce",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Support Job Contractualization",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Death Penalty",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Requiring Public Officials to Publicize SALN",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Assertion of Ownership on West Philippine Sea",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Pass Anti-Political Dynasty Bill",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Decriminalizing Abortion",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Abolish NTF-ELCAC",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "War on Drugs",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Legalize Medical Marijuana",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Anti-Terror Law",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    },
+    {
+        "name": "Advancing Mining",
+        "desc": "This is a short description of the issue.",
+        "link": "https://reference.link/"
+    }
+]

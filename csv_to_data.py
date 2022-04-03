@@ -54,7 +54,15 @@ def clear_screen():
 
 
 with open("data.js", "w+") as f:
-    contents = f"var data = {json.dumps(data_json, indent=4)}"
+
+    data_contents = f"var data = {json.dumps(data_json, indent=4)}"
+    issue_contents = f"var issues = {json.dumps(data_tables['issues'], indent=4)}"
+
     clear_screen()
-    print(contents)
-    f.write(contents)
+
+    print(data_contents)
+    print(issue_contents)
+
+    f.write(data_contents)
+    f.write("\n")
+    f.write(issue_contents)

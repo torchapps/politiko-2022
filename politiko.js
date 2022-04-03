@@ -9,17 +9,7 @@ app.controller('Politiko', function($scope){
 		{name: "Vice President", id: "vp"}
 	];
 	$scope.cands = [];
-	$scope.issues = [];
-
-	for (var pos in data){
-		for (var cand in data[pos]){
-			for (var issue in data[pos][cand]){
-				$scope.issues.push({name: issue});
-			}
-			break;
-		}
-		break;
-	}
+	$scope.issues = issues;
 
 	for (var pos in data){
 		for (var cand in data[pos]){
