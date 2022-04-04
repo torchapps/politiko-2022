@@ -43,7 +43,8 @@ app.controller('Politiko', function($scope){
 	}
 
 	$scope.candOrder = function(cand){
-		return [$scope.offset - cand.score, cand.name];
+		const lastName = cand.name.split(" ").reverse()[0]
+		return [$scope.offset - cand.score, lastName];
 	}
 
 	$scope.update = function(){
