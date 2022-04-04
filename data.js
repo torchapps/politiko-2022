@@ -380,7 +380,7 @@ var data = {
         },
         "LENI ROBREDO": {
             "Same-Sex Marriage": [
-                "against",
+                "noStand",
                 "https://www.rappler.com/nation/elections/robredo-stand-same-sex-unions-abortion/"
             ],
             "Legalize Divorce": [
