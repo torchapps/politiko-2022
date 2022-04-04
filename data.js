@@ -164,7 +164,7 @@ var data = {
         },
         "PANFILO LACSON": {
             "Same-Sex Marriage": [
-                "against",
+                "noStand",
                 "https://mb.com.ph/2022/02/27/lacson-same-sex-marriage-no-civil-union-yes/"
             ],
             "Legalize Divorce": [
