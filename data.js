@@ -84,7 +84,7 @@ var data = {
                 "https://www.facebook.com/rapplerdotcom/photos/pcb.5398161930204546/5398161316871274"
             ],
             "Decriminalizing Abortion": [
-                "For",
+                "for",
                 "https://www.cnnphilippines.com/news/2022/2/14/Ka-Leody-abortion-divorce.html"
             ],
             "Abolish NTF-ELCAC": [
@@ -242,7 +242,7 @@ var data = {
                 "https://www.manilatimes.net/2022/02/16/news/national/bbm-to-push-sea-code-of-conduct/1833156"
             ],
             "Pass Anti-Political Dynasty Bill": [
-                "Against",
+                "against",
                 "https://www.gmanetwork.com/news/topstories/nation/819342/marcos-jr-why-ban-political-dynasties/story/"
             ],
             "Decriminalizing Abortion": [
@@ -888,7 +888,7 @@ var data = {
                 "x"
             ],
             "Assertion of Ownership on West Philippine Sea": [
-                "For",
+                "for",
                 "https://www.facebook.com/watch/live/?ref=watch_permalink&v=278342217709908"
             ],
             "Pass Anti-Political Dynasty Bill": [
