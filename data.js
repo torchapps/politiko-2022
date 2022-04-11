@@ -413,7 +413,7 @@ var data = {
             ],
             "Abolish NTF-ELCAC": [
                 "against",
-                "https://newsinfo.inquirer.net/1512602/robredo-vows-to-abolish-ntf-elcac-create-conducive-environment-for-peace-talks"
+                "https://www.pna.gov.ph/articles/1167941"
             ],
             "War on Drugs": [
                 "against",
